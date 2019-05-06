@@ -9,6 +9,11 @@
 	  "id": 2,
       "name": "mahsa",
 	  "gender": "female"
+	},
+	{
+	  "id": 100,
+      "name": "guest",
+	  "gender": "anonymous"
 	}
   ],
   "app name": {
