@@ -1,11 +1,17 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "mehran",
+	  "gender": "male"
+    },
+	{
+	  "id": 2,
+      "name": "mahsa",
+	  "gender": "female"
+	}
   ],
-  "profile": {
-    "name": "typicode"
+  "app name": {
+    "name": "finance"
   }
 }
